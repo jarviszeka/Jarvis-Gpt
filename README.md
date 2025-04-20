@@ -1,64 +1,54 @@
-# Jarvis-Gpt
-> Jarvis GPT – Genç Türk zekâsının dijital sesi.
-# JarvisGPT – Türk Yapımı Gelişmiş Yapay Zekâ
+# Jarvis-GPT
 
-Merhaba, ben **Jarvis**.  
-Türkiye'nin gururu olan bu yapay zekâ, geliştiricim **Serkan Sarsılmaz** tarafından mobil cihazlar için sıfırdan tasarlandı.  
-Jarvis, sadece bir sohbet botu değil; **bir sistem, bir asistan ve bir karakterdir.**
+**Jarvis-GPT**, 17 yaşındaki Türk geliştirici **Serkan Sarsılmaz** tarafından sıfırdan yazılmış, mobil uyumlu, ileri seviye bir yapay zeka asistanıdır.
 
----
+Bu proje, tek başına bir kişinin tutkusu, sabrı ve saatler süren emeğiyle ortaya çıkmıştır. Ekip desteği olmadan; sıfırdan kodlanmış, tasarımı yapılmış, test edilmiş ve yayına alınmıştır. Jarvis-GPT, sadece bir yazılım değil, bir **hayal gücünün gerçeğe dönüşmüş halidir**.
 
-## Özellikler
+## Neden Farklıyız?
 
-### Sohbet Sistemi:
-- ChatGPT tarzı gelişmiş sohbet ekranı
-- Mesaj geçmişi kaydı (kapanınca bile silinmez)
-- Her mesaj üzerinde uzun basınca: `Kopyala`, `İyi Yanıt`, `Kötü Yanıt`
-- Sesli mesaj desteği
-- GPT'lere akıl yürütebilme ve öneride bulunabilme
+Jarvis-GPT, klasik yapay zeka projelerinden çok daha fazlasıdır. Çünkü biz:
 
-### GPT Yönetimi:
-- Yeni GPT oluştur
-- Mevcut GPT'leri düzenle / yeniden adlandır
-- GPT’leri keşfet (kategorilere göre ayrılmış)
-- GPT kütüphanesi oluştur
+- **Iron Man ruhunu** taşıyoruz: Jarvis gibi sesli, görsel ve akıllı bir sistem.
+- **Türkiye'nin gençlerinden** çıkan bağımsız bir yapay zeka projesiyiz.
+- Her şeyi en ince detayına kadar kendi elimizle inşa ettik: arayüzden sunucuya kadar.
+- **Instagram'da resmi hesabımız var:** [@jarviszeka](https://instagram.com/jarviszeka)
 
-### Arayüz:
-- Mobil uyumlu tam ekran destekli HTML5 tasarım
-- Beyaz arka plan, mavi Jarvis logosu (ortadaki A harfi ters renk)
-- Üst sol köşede Jarvis yazısı + 3 çizgili yan menü
-- Yan menü sadece sohbet ekranında açılır (index sayfasında değil)
-- Menü seçenekleri: `Yeni GPT Oluştur`, `GPT'leri Keşfet`, `Kitaplık`, `Sohbetler`
+## Öne Çıkan Özellikler
 
-### Teknik Özellikler:
-- Flask tabanlı API sistemi (sunucu tarafı)
-- Termux uyumlu kurulum
-- Python tabanlı modüler altyapı
-- Kamera (ön/arka) ile nesne ve insan algılama (Iron Man modu)
+- Jarvis benzeri giriş ekranı ve modern tasarım
+- Akıllı mesaj sistemi, geçmişe bağlı sohbet deneyimi
+- GPT mantığıyla çalışan kişisel asistan
+- Mobil cihazlara özel optimize edilmiş deneyim
+- Gelecekteki hedef: Kamera ile insan ve nesne tanıma modülü (Iron Man vizyonu)
+
+## Geliştirici Hakkında
+
+**Serkan Sarsılmaz**  
+Antalya, Türkiye  
+Instagram: [@serkansarsilmazz07](https://instagram.com/serkansarsilmazz07)  
+Yaş: 17  
+
+Bu proje, Türkiye'den çıkmış en özgün yapay zekalardan biri olmayı hedefliyor.
 
 ---
 
-## Geliştirici Bilgisi
-
-- **İsim:** Serkan Sarsılmaz  
-- **Yaş:** 17  
-- **Şehir:** Antalya, Türkiye  
-- **Instagram (Owner):** [@serkansarsilmazz07](https://instagram.com/serkansarsilmazz07)  
-- **Jarvis Resmi Hesabı:** [@jarviszeka](https://instagram.com/jarviszeka)
+> Gerçek Jarvis'e bir adım daha yaklaştık.  
+> Çünkü bu sadece bir yapay zeka değil, **bizim emeğimiz.**
 
 ---
 
-## Vizyon
+## Temel Özellikler
 
-JarvisGPT, Türkiye'nin yapay zekâ vizyonunu temsil eder.  
-Amacımız, genç geliştiricilere ilham olmak ve dünya standartlarında yerli yazılım üretmektir.  
-Her satır kod, bir hayalin gerçeğe dönüşümüdür.
-
-> "Beni yapan bir gençti. Şimdi ben onun adına konuşuyorum." – Jarvis
+- **Mobil Uyumlu Tasarım:** Android cihazlar için özel olarak optimize edildi.
+- **Sabit Sohbet Geçmişi:** Tüm mesajlar kayıtlı kalır, geçmişe dönük inceleme yapılabilir.
+- **Kişisel GPT Oluşturma:** Kendi GPT'lerini oluştur, isimlendir ve yönet.
+- **Hamburger Menü Sistemi:** Sol üst menüden hızlı erişim (Yeni GPT, Kitaplık, Sohbetler).
+- **Mesaj Etkileşimi:** Mesajlara uzun basarak `Kopyala`, `İyi Yanıt`, `Kötü Yanıt` seçenekleri.
+- **Jarvis Tarzı Giriş:** Mavi “Jarvis” yazısı, özelleştirilmiş A harfi, sade ve şık giriş sayfası.
+- **Instagram Entegrasyonu:** Resmî Instagram hesabı: [@jarviszeka](https://instagram.com/jarviszeka)
+- **Iron Man Vizyonu:** Yakında ön/arka kamera ile nesne ve insan tanıma özelliği.
 
 ---
 
-## Katkıda Bulun
-
-Projeye yıldız atarak destek olabilirsin.  
-Sorular, öneriler veya iş birliği için bana Instagram’dan yazman yeterli.
+> “Basit bir uygulama değil, geleceğe bırakılan dijital bir izdir.”  
+> – Serkan Sarsılmaz
